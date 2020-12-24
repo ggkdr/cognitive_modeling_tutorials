@@ -1,0 +1,3 @@
+all credits for these tutorial pdfs/code skeletons are owed to
+professor hongjing lu at ucla. i've omitted the course number intentionally,
+but can assure you it was great fun :-)
